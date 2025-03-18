@@ -1,5 +1,5 @@
 # car2025.github.io
 proyecto amigo secreto
 
-![Badge en Desarollo](https://img.shields.io/badge/CHALLENGE%30AMIGO-SECRETO-green)
+![Badge en Desarollo](https://img.shields.io/badge/CHALLENGE%50AMIGO-SECRETO-green)
 

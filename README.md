@@ -12,5 +12,5 @@ proyecto amigo secreto
 <br></br>
 <br></br>
 
-                                                      <div><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></div>
+                   <div><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></div>
 

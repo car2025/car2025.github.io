@@ -9,6 +9,7 @@ proyecto amigo secreto
  ingresar nombres de personas para ser sorteadas. </p></h5></center></div>
 
 <h5><p>Solo debes ingresar los nombres que quieras sortear y se eligira uno de forma aleatoria.<br></br> No puedes realizar sorteos sin ingresar nombres tampoco se permiten ingresos en blanco </p></h5>
-
-  <div><center><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></center></div>
+<br></br>
+<br></br>
+ &&&&&&&&&&&&&&&&& <div><center><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></center></div>
 

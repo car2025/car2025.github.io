@@ -8,4 +8,4 @@ proyecto amigo secreto
 <h5><p>En este desafio  se han ejecutado un conjunto de requerimientos para llegar a esta pagina web en la<br></br> cual se puede ,
  ingresar nombres de personas para ser sorteadas. </p></h5></center></div>
 
-Solo debes ingresar los nombres que debas sortear y se eligira uno de forma aleatoria.
+<h5><p>Solo debes ingresar los nombres que debas sortear y se eligira uno de forma aleatoria. No puedes realizar sorteos sin ingresar nombres tampoco se permiten ingresos en blanco </p></h5>

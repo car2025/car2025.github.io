@@ -11,7 +11,7 @@ function sortearAmigo() {
   
     var nombres = Math.floor(Math.random()*amigos.length);
  
-document.querySelector("#resultado").innerHTML = `<h1>${amigos[nombres]}</h1>`;
+document.querySelector("#resultado").innerHTML = `<h1>"El nombre Sorteado es : "${amigos[nombres]}</h1>`;
 
 let borrar = document.querySelector("#listaAmigos");
 borrar.innerHTML = '';

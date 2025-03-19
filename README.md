@@ -10,5 +10,5 @@ proyecto amigo secreto
 
 <h5><p>Solo debes ingresar los nombres que quieras sortear y se eligira uno de forma aleatoria.<br></br> No puedes realizar sorteos sin ingresar nombres tampoco se permiten ingresos en blanco </p></h5>
 
-  <div><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></div>
+  <div><center><h1><p>!!!!!!!!!DIVIERTETE!!!!!!!!</p></h1></center></div>
 
